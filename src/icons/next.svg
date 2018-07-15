@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="64px" height="48px" viewBox="0 0 64 48" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 48.2 (47327) - http://www.bohemiancoding.com/sketch -->
+    <title>Next</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <filter x="-3.2%" y="-3.2%" width="106.4%" height="106.4%" filterUnits="objectBoundingBox" id="filter-1">
+            <feOffset dx="0" dy="0" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="7.5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0.0352941176   0 0 0 0 0.0274509804   0 0 0 0 0.0274509804  0 0 0 0.600345335 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+    </defs>
+    <g id="Desktop-HD" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" transform="translate(-971.000000, -762.000000)">
+        <g id="Player" filter="url(#filter-1)" transform="translate(370.000000, 162.000000)" fill="#FFFFFF">
+            <g id="Controls" transform="translate(0.000000, 550.000000)">
+                <g id="Play-Controls" transform="translate(489.000000, 57.000000)">
+                    <path d="M143.815104,7.17184332 C143.617817,7.0593006 143.393522,7 143.165134,7 C142.452612,7 141.875,7.56496381 141.875,8.26188198 L141.875,14.5505927 L128.940104,7.17184332 C128.742817,7.0593006 128.518522,7 128.290134,7 C127.577612,7 127,7.56496381 127,8.26188198 L127,25.9254125 C127,26.1487998 127.060628,26.3681834 127.175691,26.5611498 C127.534659,27.1631615 128.324614,27.3665592 128.940104,27.0154512 L141.875,19.6367018 L141.875,25.9254125 C141.875,26.1487998 141.935628,26.3681834 142.050691,26.5611498 C142.409659,27.1631615 143.199614,27.3665592 143.815104,27.0154512 L156.75,19.6367018 L156.75,25.0625 C156.75,26.2361051 157.701395,27.1875 158.875,27.1875 C160.048605,27.1875 161,26.2361051 161,25.0625 L161,9.125 C161,7.95139491 160.048605,7 158.875,7 C157.701395,7 156.75,7.95139491 156.75,9.125 L156.75,14.5505927 L143.815104,7.17184332 Z" id="Next"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

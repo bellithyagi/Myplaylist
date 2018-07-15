@@ -1,0 +1,25 @@
+.table td, .table th{
+    max-width: 150px;
+    text-overflow: ellipsis;
+    overflow: hidden;
+    white-space: nowrap;
+    font-size: 14px;
+}
+
+.active td {
+    color: #17b2ff;
+}
+
+.table.table-hover td, .table.table-hover th{
+    border: none;
+    text-align: center;
+}
+
+.table.table-hover th{
+    text-transform: uppercase;
+    color: #aaaaaa;
+    font-weight: normal;
+}
+
+
+

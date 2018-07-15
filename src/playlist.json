@@ -1,0 +1,55 @@
+[
+  {
+    "track": {
+      "title": "Same Drugs",
+      "duration_in_ms": 257775,
+      "artists": [
+        "Chance The Rapper"
+      ],
+      "album": {
+        "title": "Coloring Book",
+        "cover_image": "/img/coloring-book.jpg"
+      }
+    }
+  },
+  {
+    "track": {
+      "title": "A Love Like War",
+      "duration_in_ms": 213740,
+      "artists": [
+        "All Time Low",
+        "Vic Fuentes"
+      ],
+      "album": {
+        "title": "Don't Panic: It's Longer Now!",
+        "cover_image": "/img/dont-panic.jpg"
+      }
+    }
+  },
+  {
+    "track": {
+      "title": "Firebreather",
+      "duration_in_ms": 264280,
+      "artists": [
+        "Thrice"
+      ],
+      "album": {
+        "title": "The Alchemy Index, Vols. 1 & 2: Fire & Water",
+        "cover_image": "/img/alchemy-index.jpg"
+      }
+    }
+  },
+  {
+    "track": {
+      "title": "Man's Not Hot",
+      "duration_in_ms": 186026,
+      "artists": [
+        "Big Shaq"
+      ],
+      "album": {
+        "title": "Man's Not Hot",
+        "cover_image": "/img/mans-not-hot.jpg"
+      }
+    }
+  }
+]

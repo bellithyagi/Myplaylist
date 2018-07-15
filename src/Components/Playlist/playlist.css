@@ -1,0 +1,11 @@
+.playlistContainer {
+    width: 700px;
+    margin: 0 auto;
+    background-color: #ffffff;
+    margin-top: 5%;
+}
+
+h3{
+    padding: 30px 20px 30px;
+    margin-left: 20px;
+}

@@ -1,0 +1,23 @@
+.coverImage {
+    width: 150px;
+    height: 150px;
+}
+
+.media {
+    background-color: #000000;
+    margin-top: 100px;
+}
+
+.media-body {
+    padding: 40px 0 0 30px;
+    color: #ffffff;
+}
+
+.headingSection h6 {
+    margin-top: 15px;
+}
+
+.headingSection, .playOptions {
+    width: 100%;
+}
+
